@@ -115,7 +115,7 @@
                 </form>
                 <p>
                     <br /><br /><small>
-                        © 2016 Indian The Academy Trust.<br />
+                        © 2016 The Academy Trust.<br />
                     </small><br />
                 </p>
             </div>
