@@ -505,7 +505,7 @@ a.moretag {
 /*Statistics*/
 
 .stats{
-    background-color: #395B98;
+    background-color: #999;
     color: #FFF;
     padding: 80px 60px 100px 60px;
     font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -657,4 +657,45 @@ button.toggle-button{
   height:100%;
   text-align:center;
   display:none;
+}
+
+#about-trust{
+    background-color: #FAFAFA;
+    color: #000;
+    padding: 80px 60px 100px 60px;
+    font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 300;
+}
+#about-trust h1{
+    font-size: 24px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #EFEFEF;
+}
+
+#trust-news{
+    padding: 80px 60px 100px 60px;
+    font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+#trust-news h1{
+    font-size: 24px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #EFEFEF;
+}
+.text-blue {
+  color: #0088CC !important;
+}
+.bld{
+  font-weight: bold;
+}
+.text-gray{
+  color: #AAA !important;
+}
+.gap-left-large{
+  padding-left: 40px;
 }
