@@ -17,8 +17,8 @@
                         <img src="<?=PUBLIC_URL?>images/stock/academybldg.jpg" alt="Indian Academy of Sciences">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Indian Academy of Sciences</h3>
-                                <p>The Indian Academy of Sciences, founded as a Society by Professor C. V. Raman on 27 April 1934, aims to promote the advancement of science in both pure and applied branches through the support of original research and the dissemination of scientific knowledge to the community.</p>
+                                <h3 class="caption-title">The Academy Trust</h3>
+                                <p>Short introduction to Academy Trust goes here..............</p>
                             </div>
                         </div>
                     </div>
@@ -26,8 +26,8 @@
                         <img src="<?=PUBLIC_URL?>images/stock/fellow.jpg" alt="Fellowship and Associateship">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Fellowship and Associateship</h3>
-                                <p>The Academy presently has 1037 Fellows, 55 Honorary Fellows, and 53 Associates. The Academy started with 65 Foundation Fellows, and up to 35 can be elected each year. Honorary Fellowship is awarded to distinguished scientist colleagues who are nationals of other countries. The Associateship programme was initiated by the Academy in 1983 to identify and encourage promising young scientists.</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; Events</h3>
+                                <p>Trust latest events details goes here....</p>
                             </div>
                         </div>
                     </div>
@@ -35,8 +35,8 @@
                         <img src="<?=PUBLIC_URL?>images/stock/articlespt.jpg" alt="Publications">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Publications</h3>
-                                <p>Among the activities undertaken by the Academy since 1934, publication of scientific journals has occupied the pride of place. The Academy publishes nine peer reviewed journals and a journal dedicated to science education.</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; Publications</h3>
+                                <p>Trust latest publication details goes here......</p>
                             </div>
                         </div>
                     </div>
@@ -44,8 +44,8 @@
                         <img src="<?=PUBLIC_URL?>images/stock/meeting.jpg" alt="Academy Meetings">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Academy Meetings</h3>
-                                <p>The Fellowship meets twice each year. The mid-year meeting (two days in early July) is held in Bangalore, while the location of the Annual meeting of the Academy (three days around the 7th of November) changes each year. During these meetings, there are symposia on special topics as well as scientific and popular lectures.</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; Meetings</h3>
+                                <p>Trust latest meeting details..................</p>
                             </div>
                         </div>
                     </div>
@@ -53,17 +53,8 @@
                         <img src="<?=PUBLIC_URL?>images/stock/summerfellowship.jpg" alt="Science Education Programmes">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">Science Education Programmes</h3>
-                                <p>The Academy (jointly with INSA and NASI) organizes programmes - summer research fellowships, refresher courses and lecture workshops -  to bring university teachers and students of science all over India into beneficial contact with Fellows of the Academy.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="<?=PUBLIC_URL?>images/stock/wis.jpg" alt="Women in Science">
-                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
-                            <div class="caption-content">
-                                <h3 class="caption-title">Women in Science</h3>
-                                <p>The Academy constituted a committee on "Women in Science" to look into the issues of women scientists and to suggest measures for obtaining suitable solutions.</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; Programmes</h3>
+                                <p>Trust latest programmes details..................</p>
                             </div>
                         </div>
                     </div>
