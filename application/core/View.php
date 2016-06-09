@@ -77,13 +77,14 @@ class View {
 
 	public function showDynamicPage($data = array(), $path = '', $actualPath = '', $navigation = array()) {
 
+
 		require_once 'application/views/viewHelper.php';
 		$viewHelper = new viewHelper();
 		$pageTitle = $this->getPageTitle($viewHelper, $path);
 
 		require_once 'application/views/header.php';
 		
-		// if(preg_match('/flat\/Home/', $path)) require_once 'application/views/carousel.php';
+		if(preg_match('/flat\/Home/', $path)) require_once 'application/views/carousel.php';
 		
 		if(file_exists('application/views/' . $actualPath . '.php')) {
 		    require_once 'application/views/' . $actualPath . '.php';
