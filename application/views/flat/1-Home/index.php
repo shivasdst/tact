@@ -28,17 +28,34 @@
 
 <div class="container-fluid gap-above-large" id="trust-news">
     <div class="row">
-        <div class="col-md-12">
-            <h1>News</h1> 
-            <p>Trust latest news goes here</p>
+        <div class="col-md-4">
+            <h1>
+                <!-- <i class="fa fa-newspaper-o"></i> -->
+                <img src="<?=PUBLIC_URL?>images/stock/news.png" alt="YouTube">
+            </h1> 
+            <p>Trust latest news goes here.....</p>
+        </div>        
+        <div class="col-md-4">
+            <h1>
+                <!-- <i class="fa fa-youtube-play"></i> -->
+                <img src="<?=PUBLIC_URL?>images/stock/youtube.png" alt="YouTube">
+            </h1> 
+            <p>Trust latest events videos goes here.....</p>
+        </div>        
+        <div class="col-md-4">
+            <h1>
+                <!-- <i class="fa fa-twitter-square"></i> -->
+                <img src="<?=PUBLIC_URL?>images/stock/twitter.png" alt="YouTube">
+            </h1> 
+            <p>Trust live tweetes goes here.....</p>
         </div>
     </div>
 </div>
 
-<div class="container-fluid stats gap-above-large" id="collection">
+<!-- <div class="container-fluid stats gap-above-large" id="collection">
     <div class="row">
         <div class="col-md-12">
-            <h1>Statistics</h1>
+            <h1>News</h1>
             <ul class="list-inline">
                 <li class="stat-elem">
                     <a href="#">
@@ -67,11 +84,12 @@
             </ul>
         </div>
     </div>
-</div>
+</div>-->
+
 <div class="container-fluid physical" id="physical">
     <div class="row">
         <div class="col-md-12">
-            <h1>Gallery</h1>
+            <h1>Events</h1>
         </div>
     </div>
     <div class="row">
