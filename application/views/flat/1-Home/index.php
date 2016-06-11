@@ -94,19 +94,26 @@
     </div>
     <div class="row">
         <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/thumb-4.jpg">
-            <h2>Picture 1</h2>
-            <p>Description of the picture goes here</p>
+            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/event1_1.jpg">
+            <h2>National Science Day Celebration</h2>
+            <p>
+                Organised by The Academy Trust(TAcT), Indian Academy of Sciences, Bengaluru,<br /> Agastya International Foundation, Bengaluru<br />
+                Prof. Dipankar Chatterji (President, IAS), Mr G. Chandramohan (Executive Sectrary, IAS) and others arriving at venue for the inauguration.
+            </p>
         </div>
         <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/thumb-6.jpg">
-            <h2>Picture 2</h2>
-            <p>Description of the picture goes here</p>
+            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/event1_2.jpg">
+            <h2>National Science Day Celebration</h2>
+            <p>Students demonstrating their interactive models and experiments.</p>
         </div>
         <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/image-3.jpg">
-            <h2>Picture 3</h2>
-            <p>Description of the picture goes here</p>
+            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/event2_1.jpg">
+            <h2>What Factors Limit Education In Science?</h2>
+            <p>
+                Special Lecture by <strong>Professor M R N Murthy</strong><br />
+                Molecular Biophysics Unit, IISc<br />
+                Mr Maheshchandra N. talking about the activities of Indian Academy of Sciences and The Academy Trust.
+            </p>
         </div>
     </div>
 </div>
