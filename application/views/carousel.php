@@ -14,47 +14,70 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="<?=PUBLIC_URL?>images/stock/academybldg.jpg" alt="Indian Academy of Sciences">
+                        <img src="<?=PUBLIC_URL?>images/stock/science_day.jpg" alt="National Science Day Celebration">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">The Academy Trust</h3>
-                                <p>Short introduction to Academy Trust goes here..............</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; National Science Day Celebration</h3>
+                                <p>
+                                    <strong>Theme: Science for Nation Building</strong><br />
+                                    Organised By: The Academy Trust(TAcT), Indian Academy of Sciences, Bengaluru,<br /> Agastya International Foundation, Bengaluru
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="<?=PUBLIC_URL?>images/stock/fellow.jpg" alt="Fellowship and Associateship">
+                        <img src="<?=PUBLIC_URL?>images/stock/Sday_inauguration.jpg" alt="National Science Day Celebration Inauguration">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">The Academy Trust &mdash; Events</h3>
-                                <p>Trust latest events details goes here....</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; National Science Day Celebration</h3>
+                                <p> Prof. Dipankar Chatterji inaugurating the National Science Day celebrations at IAS.</p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="<?=PUBLIC_URL?>images/stock/articlespt.jpg" alt="Publications">
+                        <img src="<?=PUBLIC_URL?>images/stock/Science_day1.jpg" alt="National Science Day Celebration">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">The Academy Trust &mdash; Publications</h3>
-                                <p>Trust latest publication details goes here......</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; National Science Day Celebration</h3>
+                                <p>
+                                Students visiting Raman Research Institute Museum    
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="<?=PUBLIC_URL?>images/stock/meeting.jpg" alt="Academy Meetings">
+                        <img src="<?=PUBLIC_URL?>images/stock/special_lecture.jpg" alt="Special Lecture on What Factors Limit Education In Science?">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">The Academy Trust &mdash; Meetings</h3>
-                                <p>Trust latest meeting details..................</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; Special Lecture</h3>
+                                <p> Special Lecture on
+                                    <strong>What Factors Limit Education In Science?</strong><br />
+                                    by <strong>Professor M R N Murthy</strong><br />
+                                    Molecular Biophysics Unit, IISc
+                                </strong></p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="<?=PUBLIC_URL?>images/stock/summerfellowship.jpg" alt="Science Education Programmes">
+                        <img src="<?=PUBLIC_URL?>images/stock/special_lecture1.jpg" alt="Special Lecture on What Factors Limit Education In Science?">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
                             <div class="caption-content">
-                                <h3 class="caption-title">The Academy Trust &mdash; Programmes</h3>
-                                <p>Trust latest programmes details..................</p>
+                                <h3 class="caption-title">The Academy Trust &mdash; Special Lecture</h3>
+                                <p> Special Lecture on
+                                    <strong>What Factors Limit Education In Science?</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="item">
+                        <img src="<?=PUBLIC_URL?>images/stock/special_lecture2.jpg" alt="Special Lecture on What Factors Limit Education In Science?">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                            <div class="caption-content">
+                                <h3 class="caption-title">The Academy Trust &mdash; Special Lecture</h3>
+                                <p> Special Lecture on
+                                    <strong>What Factors Limit Education In Science?</strong><br />
+                                    Prof. Ramakrishna Reddy, Prof. M.R.N. Murthy and Mr Maheshchandra N. 
+                                </p>
                             </div>
                         </div>
                     </div>
